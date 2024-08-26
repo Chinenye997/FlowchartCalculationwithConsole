@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\bin\Debug\FlowchartCalculationwithConsole.exe.config
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\bin\Debug\FlowchartCalculationwithConsole.exe
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\bin\Debug\FlowchartCalculationwithConsole.pdb
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\obj\Debug\FlowchartCalculationwithConsole.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\obj\Debug\FlowchartCalculationwithConsole.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\obj\Debug\FlowchartCalculationwithConsole.exe
+C:\Users\USER\Desktop\Coding practice\FlowchartCalculationwithConsole\FlowchartCalculationwithConsole\obj\Debug\FlowchartCalculationwithConsole.pdb
