@@ -28,7 +28,7 @@ namespace FlowchartCalculationWithConsole
                 // Step 2: First Condition: Check (Max - Min) % Interval == 0
                 if ((max - min) % interval != 0)
                 {
-                    Console.WriteLine("Invalid interval. Please try again.");
+                    Console.WriteLine("Invalid interval. Please try again!.");
                     Console.WriteLine("Press any key to continue...");
                     Console.ReadLine();
                     continue; // Restart the loop
